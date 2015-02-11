@@ -1,0 +1,14 @@
+BOOTS                Row: 8    Column: 1    Direction: down
+MITTENS              Row: 4    Column: 13   Direction: down
+SKATES               Row: 1    Column: 1    Direction: down
+BLIZZARD             Row: 5    Column: 4    Direction: right down
+HILL                 Row: 5    Column: 3    Direction: right down
+SLEIGHBELLS          Row: 1    Column: 1    Direction: right down
+WINTER               Row: 12   Column: 4    Direction: right up
+COAT                 Row: 5    Column: 9    Direction: right
+FIREPLACE            Row: 3    Column: 11   Direction: right
+CANDLE               Row: 4    Column: 5    Direction: left
+DECEMBER             Row: 13   Column: 4    Direction: left
+SEASON               Row: 14   Column: 5    Direction: left
+SNOWMAN              Row: 2    Column: 5    Direction: left
+SNOWSTORM            Row: 1    Column: 4    Direction: left
