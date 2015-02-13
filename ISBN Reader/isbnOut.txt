@@ -1,7 +1,0 @@
-013162959X       Valid
-019-923-3241     Valid
-818-851-703X     Invalid
-5703781188       Invalid
-031-X287085-     Invalid
-00-7141858-X     Valid
-JJ2354JJJX       Invalid
